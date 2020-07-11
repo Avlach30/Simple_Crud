@@ -1,0 +1,44 @@
+.content{
+  padding: 20px;
+  text-align: justify;
+  border: 2px solid gray;
+  margin: 20px;
+  box-shadow: 2px 2px 4px darkgrey;
+  border-radius: 20px;
+}
+.header{
+  text-align: center;
+}
+.nav > ul {
+  padding: 20px;
+  background-color: aqua;
+}
+.nav > ul > li{
+  display: inline;
+  margin: 20px;
+}
+.nav > ul > li > a {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+li > a:visited {
+  color: darkcyan;
+}
+li > a:hover {
+  font-weight: bolder;
+}
+table{
+  border: 1px solid;
+  border-collapse: collapse;
+}
+tr{
+  text-align: center;
+}
+th{
+  border: 1px solid;
+  padding: 10px;
+}
+td{
+  border: 1px solid;
+  padding: 10px;
+}
